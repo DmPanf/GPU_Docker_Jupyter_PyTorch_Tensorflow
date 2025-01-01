@@ -1,5 +1,5 @@
 # Dockerfile.custompytorch 
-#
+#. 
 # This example Dockerfile illustrates a method to apply
 # patches to the source code in NVIDIA's PyTorch
 # container image and to rebuild PyTorch.  The RUN command
